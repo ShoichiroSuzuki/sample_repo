@@ -1,2 +1,2 @@
 Hello,git!
-u test
+update test
